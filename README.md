@@ -16,3 +16,7 @@
 [Kill-port](https://github.com/tiaanduplessis/kill-port)
 
 ❌ Kill the process running on given port
+
+[Emoi](https://github.com/sindresorhus/emoj)
+
+😮 Find relevant emoji from text on the command-line
