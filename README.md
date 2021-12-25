@@ -1,3 +1,7 @@
-# awesome-rails-dev
+# Awesome-rails-dev
 
-[speed-test-cli](https://github.com/sindresorhus/speed-test) Test your internet connection speed and ping using speedtest.net from the CLI 
+## Rails
+
+
+## Dev
+[speed-test](https://github.com/sindresorhus/speed-test) Test your internet connection speed and ping using speedtest.net from the CLI 
