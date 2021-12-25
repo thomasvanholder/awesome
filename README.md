@@ -1,4 +1,4 @@
-# Awesome-rails-dev
+# Awesome
 
 ## Rails
 
