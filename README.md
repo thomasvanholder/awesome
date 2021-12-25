@@ -2,7 +2,6 @@
 
 ## Rails
 
-
 ## Dev
 
 [Speed-test](https://github.com/sindresorhus/speed-test)
