@@ -4,6 +4,8 @@
 
 ## Dev
 
+◼️[Git Alias](https://github.com/GitAlias/gitalias)
+
 [Speed-test](https://github.com/sindresorhus/speed-test)
 
 🚀 Test your internet connection speed and ping using speedtest.net from the CLI 
