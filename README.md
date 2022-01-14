@@ -4,7 +4,8 @@
 
 ## Dev
 
-◼️[Git Alias](https://github.com/GitAlias/gitalias)
+[Git Alias](https://github.com/GitAlias/gitalias)
+◼️ Git alias commands for faster easier version control 
 
 [Speed-test](https://github.com/sindresorhus/speed-test)
 
