@@ -13,3 +13,6 @@
 - [Cleanshot](https://cleanshot.com/) Capture your Mac’s screen like a pro.
 - [Kill-port](https://github.com/tiaanduplessis/kill-port) Kill the process running on given port
 - [Emoi](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line
+
+## Books
+- [99 bottles](https://sandimetz.com/99bottles)
