@@ -18,3 +18,4 @@
 
 ## Books
 - [99 bottles](https://sandimetz.com/99bottles)
+- [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
