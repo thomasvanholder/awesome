@@ -3,6 +3,10 @@
 ## Ruby
 - [Graceful Dev](https://graceful.dev/courses/)
 
+## Rails
+- [GoRails](gorails.com/)
+- [DriftingRuby](https://www.driftingruby.com/)
+
 ## Git
 
 - [Git Alias](https://github.com/GitAlias/gitalias) Git alias commands for faster easier version control 
