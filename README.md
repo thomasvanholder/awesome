@@ -1,6 +1,7 @@
 # Awesome
 
-## Rails
+## Ruby
+- [Graceful Dev](https://graceful.dev/courses/)
 
 ## Git
 
