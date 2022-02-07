@@ -22,5 +22,5 @@
 - [Emoi](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line
 
 ## Books
-- [99 bottles](https://sandimetz.com/99bottles)
+- [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
 - [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
