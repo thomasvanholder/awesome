@@ -1,7 +1,7 @@
 # Awesome
 
 ## Ruby
-- [Awesome Ruby](https://github.com/markets/awesome-ruby)
+- [Awesome Ruby](https://github.com/markets/awesome-ruby) A collection of awesome Ruby libraries, tools, frameworks and software 
 - [Graceful Dev](https://graceful.dev/courses/)
 
 ## Rails
