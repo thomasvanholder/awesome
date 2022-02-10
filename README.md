@@ -1,6 +1,7 @@
 # Awesome
 
 ## Ruby
+- [Awesome Ruby](https://github.com/markets/awesome-ruby)
 - [Graceful Dev](https://graceful.dev/courses/)
 
 ## Rails
