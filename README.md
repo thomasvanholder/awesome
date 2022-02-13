@@ -1,8 +1,13 @@
 # Awesome
 
+## Design
+- [Refactoring UI](https://www.refactoringui.com/book) Make your ideas look awesome,without relying on a designer.
+
 ## Ruby
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) A collection of awesome Ruby libraries, tools, frameworks and software 
 - [Graceful Dev](https://graceful.dev/courses/)
+- [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
+- [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
 
 ## Rails
 - [GoRails](gorails.com/)
@@ -22,6 +27,3 @@
 - [Bitwarden](https://github.com/bitwarden) Open source password management solutions
 - [Emoi](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line
 
-## Books
-- [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
-- [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
