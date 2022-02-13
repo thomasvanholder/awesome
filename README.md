@@ -10,8 +10,8 @@
 - [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
 
 ## Rails
-- [GoRails](gorails.com/)
-- [DriftingRuby](https://www.driftingruby.com/)
+- [GoRails](gorails.com/) Ruby on Rails tutorials, guides, and screencasts for web developers
+- [DriftingRuby](https://www.driftingruby.com/) Online training by examples videos
 
 ## Git
 
