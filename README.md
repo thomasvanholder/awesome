@@ -5,7 +5,7 @@
 
 ## Ruby
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) A collection of awesome Ruby libraries, tools, frameworks and software 
-- [Graceful Dev](https://graceful.dev/courses/)
+- [Graceful Dev](https://graceful.dev/courses/) Tasteful software development training with Avdi Grimm & friends.
 - [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
 - [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
 
