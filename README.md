@@ -14,6 +14,9 @@
 - [DriftingRuby](https://www.driftingruby.com/) Online training by examples videos
 - [Upcase](https://thoughtbot.com/upcase)
 
+## Hotwire
+- [Hotwire-rails](https://pragmaticstudio.com/hotwire-rails) The fastest way to turbocharge your Rails apps
+
 ## Git
 
 - [Git Alias](https://github.com/GitAlias/gitalias) Git alias commands for faster easier version control 
