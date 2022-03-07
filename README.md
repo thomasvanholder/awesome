@@ -7,12 +7,12 @@
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) A collection of awesome Ruby libraries, tools, frameworks and software 
 - [Graceful Dev](https://graceful.dev/courses/) Tasteful software development training with Avdi Grimm & friends.
 - [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
-- [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
+- [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137) Transform even the most chaotic software into well-designed system
 
 ## Rails
 - [GoRails](gorails.com/) Ruby on Rails tutorials, guides, and screencasts for web developers
 - [DriftingRuby](https://www.driftingruby.com/) Online training by examples videos
-- [Upcase](https://thoughtbot.com/upcase) Transform even the most chaotic software into well-designed system
+- [Upcase](https://thoughtbot.com/upcase) 
 
 ## Hotwire
 - [Hotwire-rails](https://pragmaticstudio.com/hotwire-rails) The fastest way to turbocharge your Rails apps
