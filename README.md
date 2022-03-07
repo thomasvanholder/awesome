@@ -12,7 +12,7 @@
 ## Rails
 - [GoRails](gorails.com/) Ruby on Rails tutorials, guides, and screencasts for web developers
 - [DriftingRuby](https://www.driftingruby.com/) Online training by examples videos
-- [Upcase](https://thoughtbot.com/upcase)
+- [Upcase](https://thoughtbot.com/upcase) Transform even the most chaotic software into well-designed system
 
 ## Hotwire
 - [Hotwire-rails](https://pragmaticstudio.com/hotwire-rails) The fastest way to turbocharge your Rails apps
