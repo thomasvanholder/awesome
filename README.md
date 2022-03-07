@@ -1,7 +1,7 @@
 # Awesome
 
 ## Design
-- [Refactoring UI](https://www.refactoringui.com/book) Make your ideas look awesome,without relying on a designer.
+- [Refactoring UI](https://www.refactoringui.com/book) Make your ideas look awesome, without relying on a designer.
 
 ## Ruby
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) A collection of awesome Ruby libraries, tools, frameworks and software 
