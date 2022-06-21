@@ -12,6 +12,7 @@
 ## Rails
 - [GoRails](gorails.com/) Ruby on Rails tutorials, guides, and screencasts for web developers
 - [DriftingRuby](https://www.driftingruby.com/) Online training by examples videos
+- [RailsCasts](http://railscasts.com/) Rubo on Rails screencasts
 - [Upcase](https://thoughtbot.com/upcase) 
 
 ## Hotwire
