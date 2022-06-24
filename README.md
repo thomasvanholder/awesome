@@ -18,6 +18,10 @@
 ## Hotwire
 - [Hotwire-rails](https://pragmaticstudio.com/hotwire-rails) The fastest way to turbocharge your Rails apps
 
+## Blogs
+- [Evil Martians](https://evilmartians.com/chronicles)
+- [Test Double](https://blog.testdouble.com/)
+
 ## Git
 
 - [Git Alias](https://github.com/GitAlias/gitalias) Git alias commands for faster easier version control 
