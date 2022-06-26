@@ -8,6 +8,7 @@
 - [Graceful Dev](https://graceful.dev/courses/) Tasteful software development training with Avdi Grimm & friends.
 - [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
 - [Refactoring](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137) Transform even the most chaotic software into well-designed system
+- [I Love Ruby](https://i-love-ruby.gitlab.io/book)
 
 ## Rails
 - [GoRails](gorails.com/) Ruby on Rails tutorials, guides, and screencasts for web developers
