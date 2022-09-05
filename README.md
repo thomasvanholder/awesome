@@ -4,6 +4,7 @@
 - [Refactoring UI](https://www.refactoringui.com/book) Make your ideas look awesome, without relying on a designer.
 
 ## Ruby
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) A Handbook of Agile Software Craftsmanship
 - [Awesome Ruby](https://github.com/markets/awesome-ruby) A collection of awesome Ruby libraries, tools, frameworks and software 
 - [Graceful Dev](https://graceful.dev/courses/) Tasteful software development training with Avdi Grimm & friends.
 - [99 bottles of OOP](https://sandimetz.com/99bottles) a practical guide to writing cost-effective, maintainable, and pleasing object-oriented code. 
