@@ -20,6 +20,7 @@
 
 ## Hotwire
 - [Hotwire-rails](https://pragmaticstudio.com/hotwire-rails) The fastest way to turbocharge your Rails apps
+- [Hotwiringrails book](https://book.hotwiringrails.com/)
 
 ## Blogs
 - [Evil Martians](https://evilmartians.com/chronicles)
