@@ -4,7 +4,7 @@
 - [Refactoring UI](https://www.refactoringui.com/book) Make your ideas look awesome, without relying on a designer.
 
 ## Product
-- [Intercom on Product](https://open.spotify.com/show/6d9s4PBzvdESARqUadlCpo)
+- [Intercom on Product](https://open.spotify.com/show/6d9s4PBzvdESARqUadlCpo) How to build successful product at scale.
 
 ## Ruby
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) A Handbook of Agile Software Craftsmanship
