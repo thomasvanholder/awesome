@@ -25,13 +25,15 @@
 - [Hotwire-rails](https://pragmaticstudio.com/hotwire-rails) The fastest way to turbocharge your Rails apps
 - [Hotwiringrails book](https://book.hotwiringrails.com/)
 
+## Emails
+- [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
+
 ## Blogs
 - [Evil Martians](https://evilmartians.com/chronicles)
 - [Test Double](https://blog.testdouble.com/)
 - [RubyFlow](https://rubyflow.com/) The Ruby and Rails community linklog
 
 ## Git
-
 - [Git Alias](https://github.com/GitAlias/gitalias) Git alias commands for faster easier version control 
 - [GitKraken](https://www.gitkraken.com/) an intuitive Git GUI
 - [Git and Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp) Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more!
