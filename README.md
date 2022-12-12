@@ -44,3 +44,17 @@
 - [Cleanshot](https://cleanshot.com/) Capture your Mac’s screen like a pro.
 - [Kill-port](https://github.com/tiaanduplessis/kill-port) Kill the process running on given port
 - [Bitwarden](https://github.com/bitwarden) Open source password management solutions
+
+## Examples
+- [Codetriage](https://github.com/codetriage)
+- [Railsdevs](https://github.com/joemasilotti/railsdevs.com)
+- [Lobsters](https://github.com/lobsters/lobsters)
+- [Rubygems](https://github.com/rubygems/rubygems.org)
+- [Upcase](https://github.com/thoughtbot/upcase)
+- [Hound](https://github.com/houndci/hound)
+- [Mastedon](https://github.com/mastodon/mastodon)
+- [Forem](https://github.com/forem/forem)
+- [UK Gov](https://github.com/alphagov/whitehall)
+- [Gitlab](https://gitlab.com/gitlab-org/gitlab)
+- [Canvas](https://github.com/instructure/canvas-lms)
+- [Discourse](https://github.com/discourse/discourse)
