@@ -49,6 +49,7 @@
 - [Codetriage](https://github.com/codetriage)
 - [Railsdevs](https://github.com/joemasilotti/railsdevs.com)
 - [Lobsters](https://github.com/lobsters/lobsters)
+- [Saeloun](https://blog.saeloun.com/)
 - [Rubygems](https://github.com/rubygems/rubygems.org)
 - [Upcase](https://github.com/thoughtbot/upcase)
 - [Hound](https://github.com/houndci/hound)
