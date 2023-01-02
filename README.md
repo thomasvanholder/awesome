@@ -45,6 +45,9 @@
 - [Kill-port](https://github.com/tiaanduplessis/kill-port) Kill the process running on given port
 - [Bitwarden](https://github.com/bitwarden) Open source password management solutions
 
+## Books
+- [Shapeup](https://basecamp.com/shapeup) 
+
 ## Examples
 - [Codetriage](https://github.com/codetriage)
 - [Railsdevs](https://github.com/joemasilotti/railsdevs.com)
